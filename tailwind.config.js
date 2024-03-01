@@ -12,8 +12,28 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        'fond-bloc': '#1D1D1D',
+      borderColor: {
+        elevation: "#232323",
+      },
+      backgroundColor: {
+        elevationOne: "#141414",
+        elevationTwo: "#1D1D1D",
+      },
+      fontSize: {
+        hone: "28px",
+        htwo: "22px",
+        hthree: "20px",
+        hfour: "18px",
+        hfive: "18px",
+        hsix: "16px",
+        body: "14px",
+      },
+      textColor: {
+        primary: "#FFFFFF",
+        secondary: "#B3B3B3",
+      },
+      borderRadius: {
+        primary: "48px",
       },
     },
   },
