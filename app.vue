@@ -11,6 +11,9 @@
           <Adventure />
           <div class="flex max-lg:flex-col gap-4">
             <Phone />
+            <div class="flex w-1/2 max-lg:w-full flex-col gap-1 max-lg:gap-4">
+              <Twitter />
+            </div>
           </div>
         </div>
       </div>
