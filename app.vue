@@ -7,8 +7,8 @@
           <Journaling />
           <OrangeSoft />
         </div>
-        <div>
-          
+        <div class="w-1/2 max-lg:w-full flex flex-col gap-4">
+          <Adventure />
         </div>
 
       </div>
