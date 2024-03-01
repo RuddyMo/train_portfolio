@@ -9,10 +9,11 @@
         </div>
         <div class="w-1/2 max-lg:w-full flex flex-col gap-4">
           <Adventure />
+          <div class="flex max-lg:flex-col gap-4">
+            <Phone />
+          </div>
         </div>
-
       </div>
-  
     </section>
   </main>
 </template>

@@ -17,3 +17,11 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.bgSpace {
+  background-image: url("../bgSpace.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
